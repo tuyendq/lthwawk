@@ -13,6 +13,6 @@ ENB block is processed ONCE
 ## Courses
 
 ## Books
-[GNU awk](https://www.gnu.org/software/gawk/manual/gawk.pdf)
+[GNU awk](https://www.gnu.org/software/gawk/manual/gawk.pdf) by Arnold D. Robbins
 
 
