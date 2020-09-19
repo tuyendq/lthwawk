@@ -1,11 +1,13 @@
 # LTHW - awk
 
-awk - Alfred **A**ho, Peter **W**einberger, Brian **K**ernighan
+**awk** - Three authors: Alfred **A**ho, Peter **W**einberger, Brian **K**ernighan
 
-## BEGIN header
+## BEGIN block - header
 BEGIN block is processed ONCE
 
-## END footer
+## {} block - main
+
+## END block - footer
 ENB block is processed ONCE
 
 ## Courses
