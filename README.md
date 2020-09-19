@@ -11,3 +11,8 @@ BEGIN block is processed ONCE
 ENB block is processed ONCE
 
 ## Courses
+
+## Books
+[GNU awk](https://www.gnu.org/software/gawk/manual/gawk.pdf)
+
+
